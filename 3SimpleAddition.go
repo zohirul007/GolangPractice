@@ -4,8 +4,8 @@ import "fmt"
 
 func main() {
 
-	A := 37
-	B := 23
+	A := 197
+	B := 197
 
 	sum := A + B
 
