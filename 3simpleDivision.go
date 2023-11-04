@@ -11,4 +11,6 @@ func main() {
 
 	//reading the data
 	fmt.Println("The result is: = ", divide)
+	
+	
 }
