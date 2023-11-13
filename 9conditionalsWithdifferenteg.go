@@ -1,6 +1,7 @@
 // If he has money in his account, calculate interest; if he doesn’t,
 // charge a penalty fee
 // solving with if condition
+// To add an else statement
 
 package main
 
