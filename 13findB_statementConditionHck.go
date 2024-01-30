@@ -1,7 +1,7 @@
 /*
 	We can use go conditional with some syntactic sugar that GO offers
 
-to shorten up code in some cases. For example instead of writing*/
+to shorten up code in some cases. For example instead of writing this is comment*/
 
 package main
 
